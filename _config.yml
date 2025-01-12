@@ -1,0 +1,19 @@
+title: Li's Blog
+description: Hi
+author: Li Yi
+
+theme: no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "← back" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# URL settings
+baseurl: "" # leave this blank if your site is at yourusername.github.io
+url: "https://liyi5895.github.io" 

@@ -1,0 +1,13 @@
+entries:
+  - title: 2024
+    entries:
+      - title: Hello, World!
+        url: 2024/03/21/hello-world.html 
+      
+  - title: recent posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: archive.html
+
