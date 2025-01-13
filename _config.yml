@@ -2,7 +2,7 @@ title: Li's Blog
 description: Hi
 author: Li Yi
 
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
@@ -13,6 +13,7 @@ theme_config:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # URL settings
 baseurl: "" # leave this blank if your site is at yourusername.github.io
